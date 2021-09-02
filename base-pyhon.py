@@ -11,7 +11,7 @@ print('ab' < 'ad')
 
 # Collections
 # List 
-x  = [4, True, 'hi']
+x = [4, True, 'hi']
 x.append('hello')
 x.extend([1, 2, 3, 4])
 x.pop()
